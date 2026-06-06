@@ -2,7 +2,7 @@
 
 ### Second Year Student try to Learn and Build Stuff
 
-> **"Your next 10 hires won't be human. Building the platform to make that happen."**
+> **""**
 > 
 > 
 
@@ -47,9 +47,9 @@
 
 ## 📫 Connect with Me
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/jiayuan_jy.svg?style=social&label=Follow%20%40jiayuan_jy)](xyz)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/siddharth.svg?style=social&label=Follow%20%40jiayuan_jy)](xyz)
 &nbsp;
-[![Email Badge](https://img.shields.io/badge/Email-jiayuan%40multica.ai-blue?style=flat-square&logo=gmail)](siddh2913@gmail.com)
+[![Email Badge](https://img.shields.io/badge/Email-Siddharth%40multica.ai-blue?style=flat-square&logo=gmail)](siddh2913@gmail.com)
 &nbsp;
-[![Website Badge](https://img.shields.io/badge/Website-multica.ai-black?style=flat-square)](https://??)
+[![Website Badge](https://img.shields.io/badge/Website-?????-black?style=flat-square)](https://??)
 
