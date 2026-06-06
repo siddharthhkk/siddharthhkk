@@ -47,9 +47,9 @@
 
 ## 📫 Connect with Me
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/siddharth.svg?style=social&label=Follow%20%40jiayuan_jy)](xyz)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/siddharth.svg?style=social&label=Follow%20%40siddharth)](xyz)
 &nbsp;
-[![Email Badge](https://img.shields.io/badge/Email-Siddharth%40multica.ai-blue?style=flat-square&logo=gmail)](siddh2913@gmail.com)
+[![Email Badge](https://img.shields.io/badge/Email-Siddharth%40xyz-blue?style=flat-square&logo=gmail)](siddh2913@gmail.com)
 &nbsp;
 [![Website Badge](https://img.shields.io/badge/Website-?????-black?style=flat-square)](https://??)
 
