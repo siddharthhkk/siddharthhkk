@@ -1,6 +1,6 @@
 # Hi there, I'm Siddharth Sandilaya
 
-### Second Year Student try to Learn and Build Stuff
+### Third Year Student try to Learn and Build Stuff
 
 > **""**
 > 
@@ -9,9 +9,7 @@
 ---
 
 ## 🧠 Current Projects
-
-
-
+Learning Classical ML and going deep into it!
 
 ---
 
